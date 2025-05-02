@@ -17,4 +17,4 @@ Identity and travel documents are increasingly being counterfeited or tampered w
 ## Website and Social Media
 
 * [TRACE Website](https://safetravellers-project.eu/)
-* [LinkedIn]([https://www.linkedin.com/company/trace-horizon-project/https://www.linkedin.com/company/trace-horizon-project/](https://www.linkedin.com/company/safetravellers-project/))
+* [LinkedIn]((https://www.linkedin.com/company/safetravellers-project/)
