@@ -1,7 +1,7 @@
 # SafeTravellers Project
 
 <p align="center">
-  <img src="safe-travellers-full.png" alt="Safe Travellers" width="600">
+  <img src="../safe-travellers-full.png" alt="Safe Travellers" width="600">
 </p>
 
 
