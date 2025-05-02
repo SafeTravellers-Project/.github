@@ -13,6 +13,7 @@ Identity and travel documents are increasingly being counterfeited or tampered w
 * [Jenkins](https://jenkins.safetravellers.rid-intrasoft.eu) : CI/CD Automation Server
 * [Harbor](https://harbor.safetravellers.rid-intrasoft.eu) : Container Image Registry
 * [Portainer](https://portainer.safetravellers.rid-intrasoft.eu) : Container Management System
+* [CI/CD Documentation](https://github.com/SafeTravellers-Project/cicd-documentation) : CI/CD Stack Documentation Repository
 
 ## Website and Social Media
 
