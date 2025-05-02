@@ -1,4 +1,4 @@
-# TRACE Project
+# SafeTravellers Project
 
 ![SafeTravellers Logo](https://github.com/trace-project-eu/.github/blob/master/images/trace_logo.png)
 
